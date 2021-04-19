@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi! I'm Jiao Dian. Welcome to my GitHub!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianjiaogit)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianjiaogit)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
